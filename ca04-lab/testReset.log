@@ -1,0 +1,7 @@
+02-20 23:44:52.235    5221-5221/course.labs.todomanager I/Lab-UserInterface﹕ Entered footerView.OnClickListener.onClick()
+02-20 23:44:54.477    5221-5221/course.labs.todomanager I/Lab-UserInterface﹕ Entered resetButton.OnClickListener.onClick()
+02-20 23:44:56.583    5221-5221/course.labs.todomanager I/Lab-UserInterface﹕ Entered submitButton.OnClickListener.onClick()
+02-20 23:44:57.141    5221-5221/course.labs.todomanager I/Lab-UserInterface﹕ Entered onActivityResult()
+02-20 23:44:58.973    5221-5221/course.labs.todomanager I/Lab-UserInterface﹕ Entered onCheckedChanged()
+02-20 23:44:59.989    5221-5221/course.labs.todomanager I/Lab-UserInterface﹕ Item 0: Title:t3,Priority:HIGH,Status:DONE,Date:2014-02-27 23:44:00
+
